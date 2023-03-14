@@ -11,7 +11,7 @@
 :root {
   /* FONT */
   --FF: "Nunito", sans-serif;
-  --FS: 1.5rem;
+  --FS: min(2.25rem, 3vh);
   --FS-XL: 3rem;
 
   /* COLOR */
